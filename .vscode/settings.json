@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}\\python_tracker"
+  ],
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}\\python_tracker"
+  ]
+}

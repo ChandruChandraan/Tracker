@@ -1,0 +1,9 @@
+search-path = [
+  "python_tracker"
+]
+
+site-package-path = [
+  ".venv/Lib/site-packages",
+  "C:/Users/Deo/AppData/Roaming/Python/Python314/site-packages",
+  "C:/Python314/Lib/site-packages"
+]
